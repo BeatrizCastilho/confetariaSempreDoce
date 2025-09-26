@@ -51,3 +51,36 @@ nav ul li a:hover {
     width: 100%;
     object-fit: cover;
 }
+.container h2{
+    text-align: center;
+    font-size: 30px;
+}
+.container p {
+    text-align: center;
+    font-size: 15px;
+}
+.sobre{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu-cardapio-itens{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-cardapio-item{
+    border: 1px solid pink;
+    border-radius: 5px;
+    width: 30%;
+    padding: 20px;
+    box-shadow: 0  0 10px palevioletred;
+}
+.menu-cardapio h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
+footer{
+    background-color: rgb(225, 111, 171);
+    color: aliceblue;
+}
