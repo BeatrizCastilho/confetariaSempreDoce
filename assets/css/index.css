@@ -46,3 +46,8 @@ nav ul li a:hover {
     text-decoration: underline;
     color: rgb(242, 106, 153);
 }
+.img-carrosel {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
